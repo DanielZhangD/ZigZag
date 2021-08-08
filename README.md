@@ -14,6 +14,8 @@ Features include:
 - Gems
 - And more!
 
+Please note: as this was part of University of Toronto's ECE243 course (Final project), code is currently not provided. Please contact me for more information!
+
 
 <img width="646" alt="Game Over" src="https://user-images.githubusercontent.com/37020276/128642018-e96520a4-42f3-40ff-a40c-200171233b4e.png">
 
